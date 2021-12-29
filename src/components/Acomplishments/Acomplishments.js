@@ -8,8 +8,8 @@ import {
 import { Box, Boxes, BoxNum, BoxText } from "./AcomplishmentsStyles";
 
 const data = [
-  { number: 1, text: "Graduated High School in 2020" },
-  { number: 2, text: "Got Into Kenzie Academy " },
+  { number: 1, text: "Held Supervisor position at previous job" },
+  { number: 2, text: "Got Into Kenzie Academy" },
   { number: 3, text: "became Certified Front-End developer" },
   { number: 4, text: "became Certified Full-Stack developer" },
 ];

@@ -18,10 +18,10 @@ const Technologies = () => (
   <Section id="tech">
     <SectionDivider />
     <br />
-    <SectionTitle>Technologies</SectionTitle>
+    <SectionTitle>Tech Experience</SectionTitle>
     <SectionText>
-      Ive worked with a range of technologies! from backend to the front end to
-      putting both together and making some amazing and unique applications!
+      Ive worked with a range of technologies! from back-end to front-end to
+      putting them together and making some amazing and unique applications!
     </SectionText>
     <List>
       <ListItem>
