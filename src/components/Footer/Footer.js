@@ -24,13 +24,9 @@ const Footer = () => {
     <FooterWrapper>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Call</LinkTitle>
-          <LinkItem href="tel:928-254-0706">928-254-0706</LinkItem>
-        </LinkColumn>
-        <LinkColumn>
           <LinkTitle>Email</LinkTitle>
           <LinkItem href="mailto:abdaelmora1@gmail.com">
-            abdaelmora1@gmail.com
+            contact@abdaelsportfolio.com
           </LinkItem>
         </LinkColumn>
       </LinkList>

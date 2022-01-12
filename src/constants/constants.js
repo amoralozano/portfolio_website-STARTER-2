@@ -10,6 +10,16 @@ export const projects = [
     id: 0,
   },
   {
+    title: "Bubble Popping Demo",
+    description:
+      "Bubble Popping was an individual project demo similar to Candy Crush. Project was made with React and Javascript, with the functionality to drag and place bubbles to get a score. Full version of the game is beign worked on...",
+    image: "/images/bubblepop.png",
+    tags: ["JS", "React", "HTML", "CSS"],
+    source: "https://bubblepoppingdemo.netlify.app/",
+    visit: "https://github.com/amoralozano/bubble-popping-demo",
+    id: 1,
+  },
+  {
     title: "Front-End Portfolio V1",
     description:
       "Front-end portfolio was an individual project made with React, Three.js, HTML, CSS. I took the challenge to implement three.js without background knowledge I was efficient throughout the project, and even though there were a few bugs, I debugged efficiently due to documentation and repetitive practice.",
