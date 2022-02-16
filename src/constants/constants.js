@@ -5,8 +5,8 @@ export const projects = [
       "Bubble Popping 1 is the full version of the demo I had made previously. BP1 was an individual project made with Javascript, React, and TailwindCSS. BP1 offers users to not only play the game but also offers a great UI and great features.",
     image: "/images/4.png",
     tags: ["JS", "React", "TailwindCSS"],
-    source: "https://abdaelsportfolio.netlify.app/",
-    visit: "https://github.com/amoralozano/front-end-portfolio",
+    source: "https://bubblepopping1.netlify.app/",
+    visit: "https://github.com/amoralozano/bubble-popping1",
     id: 0,
   },
   {
