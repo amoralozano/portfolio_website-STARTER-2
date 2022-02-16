@@ -1,5 +1,25 @@
 export const projects = [
   {
+    title: "Bubble Popping 1",
+    description:
+      "Bubble Popping 1 is the full version of the demo I had made previously. BP1 was an individual project made with Javascript, React, and TailwindCSS. BP1 offers users to not only play the game but also offers a great UI and great features.",
+    image: "/images/4.png",
+    tags: ["JS", "React", "TailwindCSS"],
+    source: "https://abdaelsportfolio.netlify.app/",
+    visit: "https://github.com/amoralozano/front-end-portfolio",
+    id: 0,
+  },
+  {
+    title: "Bubble Popping Demo",
+    description:
+      "Bubble Popping was an individual project demo similar to Candy Crush. Project was made with React and Javascript, with the functionality to drag and place bubbles to get a score. Full version of the game is next to me!",
+    image: "/images/bubblepop.png",
+    tags: ["JS", "React", "HTML", "CSS"],
+    source: "https://bubblepoppingdemo.netlify.app/",
+    visit: "https://github.com/amoralozano/bubble-popping-demo",
+    id: 1,
+  },
+  {
     title: "Spotify Clone",
     description:
       "Spotify Clone was an Individual project made with React, Next.Js, NextAuth, TailwindCSS, and Spotify API. I used Spotify's API to retrieve users login credentials but also users playlists and songs from the playlists to display on the page and have control of what is playing on another device.",
@@ -10,17 +30,7 @@ export const projects = [
     id: 0,
   },
   {
-    title: "Bubble Popping Demo",
-    description:
-      "Bubble Popping was an individual project demo similar to Candy Crush. Project was made with React and Javascript, with the functionality to drag and place bubbles to get a score. Full version of the game is beign worked on...",
-    image: "/images/bubblepop.png",
-    tags: ["JS", "React", "HTML", "CSS"],
-    source: "https://bubblepoppingdemo.netlify.app/",
-    visit: "https://github.com/amoralozano/bubble-popping-demo",
-    id: 1,
-  },
-  {
-    title: "Front-End Portfolio V1",
+    title: "Front-End Portfolio V1 ",
     description:
       "Front-end portfolio was an individual project made with React, Three.js, HTML, CSS. I took the challenge to implement three.js without background knowledge I was efficient throughout the project, and even though there were a few bugs, I debugged efficiently due to documentation and repetitive practice.",
     image: "/images/2.png",
@@ -29,6 +39,7 @@ export const projects = [
     visit: "https://github.com/amoralozano/front-end-portfolio",
     id: 1,
   },
+
   // {
   //   title: "WebRTC App",
   //   description:
@@ -37,7 +48,7 @@ export const projects = [
   //   tags: ["React", "WebRTC"],
   //   source: "https://google.com",
   //   visit: "https://google.com",
-  //   id: 2,
+  //   id: 3,
   // },
   // {
   //   title: "Unichat",
