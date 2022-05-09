@@ -1,5 +1,25 @@
 export const projects = [
   {
+    title: "NextNFT",
+    description:
+      "NextNFT is an individual project that is a blockchain application that uses Etherium and is built with React Native, javascript, and Expo CLI to deploy the application. NextNFT is a NFT marketplace that users can trade and buy NFTS using the mobile application. The link below will take you to the landing page which was built using React and Javascript, Images were edited using Procreate.",
+    image: "/images/1.png",
+    tags: ["React Native", "React", "Javascript", "TailwindCSS"],
+    source: "https://red-violet-8621.on.fleek.co",
+    visit: "https://github.com/amoralozano/showcase_NFT_app/tree/master",
+    id: 0,
+  },
+  {
+    title: "GreaterNews",
+    description:
+      "GreaterNews was an individual project made with React, Javascript, TailwindCSS and OpenWeather API. GreaterNews is a news and weather website that lets users search their location and get their current weather and current news(in works). GreaterNews not only has great content but it also has a beautiful UI. Link below will take you directly to GreaterNews for yourself to try out;)",
+    image: "/images/2.png",
+    tags: ["Javascript", "React", "TailwindCSS"],
+    source: "https://greaternews.netlify.app",
+    visit: "https://github.com/amoralozano/greater-news-app",
+    id: 1,
+  },
+  {
     title: "Bubble Popping 1",
     description:
       "Bubble Popping 1 is the full version of the demo I had made previously. BP1 was an individual project made with Javascript, React, and TailwindCSS. BP1 offers users to not only play the game but also offers a great UI and great features.",
@@ -9,6 +29,7 @@ export const projects = [
     visit: "https://github.com/amoralozano/bubble-popping1",
     id: 0,
   },
+
   {
     title: "Bubble Popping Demo",
     description:
@@ -17,26 +38,6 @@ export const projects = [
     tags: ["JS", "React", "HTML", "CSS"],
     source: "https://bubblepoppingdemo.netlify.app/",
     visit: "https://github.com/amoralozano/bubble-popping-demo",
-    id: 1,
-  },
-  {
-    title: "Spotify Clone",
-    description:
-      "Spotify Clone was an Individual project made with React, Next.Js, NextAuth, TailwindCSS, and Spotify API. I used Spotify's API to retrieve users login credentials but also users playlists and songs from the playlists to display on the page and have control of what is playing on another device.",
-    image: "/images/1.png",
-    tags: ["JS", "React", "Next.js", "NextAuth", "TailwindCSS"],
-    source: "https://www.abdaelmoras.com/",
-    visit: "https://github.com/amoralozano/spotify-2-am",
-    id: 0,
-  },
-  {
-    title: "Front-End Portfolio V1 ",
-    description:
-      "Front-end portfolio was an individual project made with React, Three.js, HTML, CSS. I took the challenge to implement three.js without background knowledge I was efficient throughout the project, and even though there were a few bugs, I debugged efficiently due to documentation and repetitive practice.",
-    image: "/images/2.png",
-    tags: ["JS", "React", "Three.js", "Boostrap"],
-    source: "https://abdaelsportfolio.netlify.app/",
-    visit: "https://github.com/amoralozano/front-end-portfolio",
     id: 1,
   },
 
